@@ -1,9 +1,5 @@
 #!/bin/bash
 
-# Author: Your Name
-# Date:   Current Date
-# Version: V1
-
 # This script will report AWS resource usage for S3, EC2, Lambda, IAM, RDS, ECS, ECR, SSM, Route53, and CloudFormation.
 
 # Make sure you have the AWS CLI installed and configured with the necessary access credentials.
